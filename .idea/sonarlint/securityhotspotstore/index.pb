@@ -5,3 +5,5 @@
 +contracts/cellular-automata-management.clar,7/0/708861a34759ff88bb98e86044de6bf4e438ad14
 Z
 *tests/cellular-automata-management.test.ts,1/a/1accefc3d9b735d75db50b52a6d28eccb6669d17
+S
+#contracts/evolution-parameters.clar,1/3/13f95d1dda111d25b7f2f4594d8b619a52715b1c
