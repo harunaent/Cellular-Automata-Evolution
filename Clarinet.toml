@@ -10,6 +10,11 @@ path = 'contracts/cellular-automata-management.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.emergent-behavior-analysis]
+path = 'contracts/emergent-behavior-analysis.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.evolution-parameters]
 path = 'contracts/evolution-parameters.clar'
 clarity_version = 2
